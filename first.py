@@ -7,8 +7,7 @@ from answers import answer_data
 from Lingv import format_message
 from responses import find_response
 
-# token = '1614385064:AAEJP9MnsLwSRMjZU3HVjjKStWks0NIbvEY'
-token = "1893574415:AAGb5sJKbbvrvLpzGZB8R-D9v8YhdYnJGJY"
+token = "your token"
 bot = telebot.TeleBot(token)
 
 
